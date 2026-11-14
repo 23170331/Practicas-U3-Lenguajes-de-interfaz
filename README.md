@@ -18,3 +18,9 @@ Repositorio de prácticas desarrolladas en arquitectura x86 utilizando la librer
 * [REPORTE-3 VALIDACION U3](REPORTE-3%20VALIDACION%20U3/)
 * [PRACTICA-4 MANEJODELAPILAMANUAL](PRACTICA-4%20MANEJODELAPILAMANUAL/)
 * [PRACTICA-5 MACROS](PRACTICA-5%20MACROS/)
+
+---
+
+## 🛠️ Entorno y Dependencias
+* **Arquitectura:** x86 (32 bits)
+* **Ensamblador:** MASM / Irvine32
