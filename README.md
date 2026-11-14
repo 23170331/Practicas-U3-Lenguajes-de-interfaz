@@ -12,3 +12,9 @@ Repositorio de prácticas desarrolladas en arquitectura x86 utilizando la librer
 Repositorio de prácticas desarrolladas en arquitectura x86 utilizando la librería **Irvine32**. Haz clic en cualquier práctica para navegar directamente a su carpeta en el repositorio.
 
 ---
+# Prácticas - Assembly
+
+* [PRACTICA-1 U3](PRACTICA-1%20U3/)
+* [REPORTE-3 VALIDACION U3](REPORTE-3%20VALIDACION%20U3/)
+* [PRACTICA-4 MANEJODELAPILAMANUAL](PRACTICA-4%20MANEJODELAPILAMANUAL/)
+* [PRACTICA-5 MACROS](PRACTICA-5%20MACROS/)
